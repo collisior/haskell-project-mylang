@@ -1,9 +1,10 @@
 # Project for Functional Programming Languages Course.
+Project repository be found in [this link](https://github.com/BU-CS320/project-supercalifragilisticexpialidocious/tree/master/project)
+
 Project: New language written in Haskell. 
 
 This language has its own compilation logic, language structure, and associaticity rules. 
 
-Project repo be found in [this link](https://github.com/BU-CS320/project-supercalifragilisticexpialidocious/tree/master/project)
 
 ## Project Language Description
 The precedence, associativity, and default meaning as in Haskell. But there is one important exception: the precedence for application should follow the rule where application is lower in precedence rather than a very high precedence (as in Haskell). The operators are listed below in classes (operators of the same precedence) in increasing order of precedence, with associativity and other characteristics noted. 
