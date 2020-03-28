@@ -1,5 +1,6 @@
-# haskell-project-mylang
-Project for Functional Programming Languages Course.
+# Project for Functional Programming Languages Course.
+Project: New language written in Haskell. 
+This llanguage has its own compilation logic, language structure, and associaticity rules. 
 
 Project repo be found in [this link](https://github.com/BU-CS320/project-supercalifragilisticexpialidocious/tree/master/project)
 
